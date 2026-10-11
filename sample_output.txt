@@ -1,0 +1,50 @@
+
+=== STUDENT PERFORMANCE ANALYTICS SYSTEM ===
+
+Student-wise results:
+Student_ID              Name Department  Total_Marks  Average_Marks Grade Result  Attendance_Percent
+      S001       Aarav Patil         IT          337          84.25     A   Pass                  92
+      S002      Sneha Jadhav         IT          364          91.00    A+   Pass                  96
+      S003      Rohan Shinde   Computer          273          68.25     C   Pass                  84
+      S004       Priya Pawar         IT          323          80.75     A   Pass                  91
+      S005       Om Deshmukh       ENTC          237          59.25     D   Pass                  78
+      S006   Ananya Kulkarni   Computer          380          95.00    A+   Pass                  98
+      S007       Aditya More         IT          197          49.25     F   Pass                  72
+      S008      Isha Gaikwad       ENTC          287          71.75     B   Pass                  88
+      S009      Sahil Chavan   Computer          181          45.25     F   Fail                  69
+      S010       Kavya Joshi         IT          350          87.50     A   Pass                  95
+      S011       Vedant Kale       ENTC          244          61.00     C   Pass                  81
+      S012     Tanvi Bhosale   Computer          326          81.50     A   Pass                  93
+      S013 Atharva Nimbalkar         IT          162          40.50     F   Pass                  74
+      S014     Mira Salunkhe   Computer          359          89.75     A   Pass                  97
+      S015         Yash Wagh       ENTC          140          35.00     F   Fail                  61
+      S016     Sakshi Shinde         IT          311          77.75     B   Pass                  89
+      S017        Neel Joshi   Computer          272          68.00     C   Pass                  86
+      S018      Rutuja Pawar       ENTC          333          83.25     A   Pass                  94
+      S019      Kabir Shaikh         IT          237          59.25     D   Pass                  77
+      S020        Aditi More   Computer          383          95.75    A+   Pass                  99
+
+=== CLASS SUMMARY ===
+Number of students: 20
+Class average (all subject marks): 71.20
+Highest student average: 95.75
+Lowest student average: 35.00
+Students passed: 18
+Students failed: 2
+Average attendance: 85.70%
+
+=== SUBJECT-WISE AVERAGE ===
+Python: 69.45
+AI: 70.35
+Mathematics: 72.30
+Data Analysis: 72.70
+Best-performing subject: Data Analysis
+Lowest-performing subject: Python
+
+=== TOP 3 PERFORMERS ===
+Student_ID            Name  Average_Marks Grade
+      S020      Aditi More          95.75    A+
+      S006 Ananya Kulkarni          95.00    A+
+      S002    Sneha Jadhav          91.00    A+
+
+Detailed results saved to: student_performance_results.csv
